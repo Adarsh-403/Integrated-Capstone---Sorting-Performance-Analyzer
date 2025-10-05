@@ -148,4 +148,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## ✍️ Author
 
-* **ADARSH VARGHESE** - [LinkedIn Profile](www.linkedin.com/in/adarsh-varghese-157b4a224) | [GitHub Profile](https://github.com/Adarsh-403)
+* **ADARSH VARGHESE** - [LinkedIn Profile](https://www.linkedin.com/in/adarsh-varghese-157b4a224/) | [GitHub Profile](https://github.com/Adarsh-403)
